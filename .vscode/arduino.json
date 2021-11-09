@@ -1,0 +1,5 @@
+{
+    "sketch": "workingPortal\\workingPortal.ino",
+    "board": "Moteino:avr:Moteino",
+    "port": "COM14"
+}
